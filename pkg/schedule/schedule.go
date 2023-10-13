@@ -2,7 +2,7 @@ package schedule
 
 import (
 	"fmt"
-	. "github.com/jedi-knights/rpi/pkg/match"
+	. "github.com/jedi-knights/rankings/pkg/match"
 	"slices"
 )
 
